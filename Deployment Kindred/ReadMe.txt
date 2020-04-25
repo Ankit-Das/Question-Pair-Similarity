@@ -3,13 +3,17 @@ Deployment:
 Language used:
    
 1.Html
+
 2.CSS
+
 3.Javascript
+
 4.Python
 
 Procedure:
 
 1.Front end of the app is designed using HTML,CSS and JavaScript.
+
 2.Backend end of the app is implemented using Python.
 
 How the app works:
