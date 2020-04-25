@@ -3,7 +3,9 @@ Data cleaning of dataset in Python.
 Technique used:
 
 1. Removing tags
+
 2. Expanding english language
+
 3. Regex Function
 
 Procedure:
