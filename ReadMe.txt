@@ -1,4 +1,4 @@
-#Kind-Red Question-Pair-Similarity
+Kind-Red Question-Pair-Similarity
 
 #Objective:This project is built to identify and display similar questions that have been already answered on a forum on a web application.
 
