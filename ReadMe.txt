@@ -12,7 +12,7 @@ Kind-Red Question-Pair-Similarity
 
 #Use argsort to compare the index of the question and dataset.Top similar questions will be displayed.
 
-#Deployment is done using flask app.
+#Deployment is done using flask app.The result will be displayed on a web application
 
 
 
