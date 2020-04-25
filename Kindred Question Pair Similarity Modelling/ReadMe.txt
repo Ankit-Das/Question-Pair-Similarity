@@ -1,6 +1,7 @@
 Procedure to find similar questions using Infersent:
 
 Technique Used:
+
 1.Word Embedding
 
 2.Cosine Similarity.
